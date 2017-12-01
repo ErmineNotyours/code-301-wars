@@ -5,4 +5,4 @@ function fixTheMeerkat(arr) {
       swap.push(arr[tempIndex]);
     }
        return swap;
-   }
+   } //
